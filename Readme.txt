@@ -7,7 +7,7 @@ Set up instructions
 https://playwright.dev/docs/intro
 
 -Then pull all changes from below the repo to your root folder.
-  git@github.com:KC0122/Demo.git
+  https://github.com/KC0122/Demo.git
 
 -Once done, you are good to go!
 
