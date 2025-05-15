@@ -11,11 +11,11 @@ test.beforeAll(async function(){
   contx = await brows.newContext();
   page = await contx.newPage()
 })
-/*
+
 test.afterAll(async function(){
   await contx.close();
   await page.close();
   await brows.close();
 })
-*/
+
 export{page}
