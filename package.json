@@ -1,15 +1,30 @@
 {
-  "name": "demo",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {},
-  "keywords": [],
-  "author": "",
+  "name": "1.2.0",
+  "version": "1.2.0",
+  "description": "E2E Shopping cart tests",
+  "homepage": "https://github.com/KC0122/Demo#readme",
+  "bugs": {
+    "url": "https://github.com/KC0122/Demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KC0122/Demo.git"
+  },
   "license": "ISC",
+  "author": "Kameel Cader",
   "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "dependencies": {
+    "playwright": "^1.52.0",
+    "playwright-core": "^1.52.0",
+    "undici-types": "^6.21.0"
+  },
   "devDependencies": {
-    "@playwright/test": "^1.52.0",
-    "@types/node": "^22.15.18"
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.0.14"
   }
 }
